@@ -1,0 +1,16 @@
+i {
+	cursor: pointer;
+}
+
+h5, li {
+	text-transform: uppercase;
+}
+
+i.fa-caret-down {
+	padding-right: 1.2em;
+}
+
+i.fa-times {
+	color: red;
+    float: right;
+}
